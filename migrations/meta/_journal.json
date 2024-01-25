@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706199400741,
+      "tag": "0000_glossy_hiroim",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706200735275,
+      "tag": "0001_cooing_echo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1706202445247,
+      "tag": "0002_tense_justice",
+      "breakpoints": true
+    }
+  ]
+}
